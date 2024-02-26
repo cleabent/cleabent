@@ -1,4 +1,8 @@
-Young teenager that is pretty bad at anything other than English and computers.
-Heavily introverted. 
-If you want to know why i have clea at the end or why i am "bent", or why i have the name clea, check [my twitter](https://twitter.com/cl_isnt_Cl)
-Optionally, visit /dev/null for my private information.
+## hi
+Average teenager with interest to programming.
+im very ntroverted. pls forgive me especially at issues and PRs
+used distro : 
+- current : arch ('22,'24)
+- past & new main pcs os : nixos ('23)
+- the previous one : fedora ('18)
+- the first one : ubuntu('16,'17)
